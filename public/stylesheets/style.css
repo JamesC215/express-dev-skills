@@ -5,4 +5,15 @@ body {
 
 a {
   color: #00B7FF;
+  border: #00B7FF solid 1px;
+  border-radius: 25px;
+  padding: 5px;
+  
+}
+a:hover{
+  background-color: cyan;
+}
+
+li {
+  margin: 20px;
 }
